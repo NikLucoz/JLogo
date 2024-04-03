@@ -11,4 +11,5 @@ plugins {
 }
 
 rootProject.name = "it.unicam.cs.jlogo"
-include("app", "list", "utilities")
+include("app")
+include("api")
