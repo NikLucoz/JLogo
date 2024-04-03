@@ -5,7 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d9238093-0afa-472d-9708-2b12d41638e3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/api/src/main/java/it/unicam/cs/jlogo/api/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/src/main/java/it/unicam/cs/jlogo/api/Cursor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/src/main/java/it/unicam/cs/jlogo/api/DrawingArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/src/main/java/it/unicam/cs/jlogo/api/Segment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.6/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.6/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.6/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.6/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/it.unicam.cs.jlogo.app.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/it.unicam.cs.jlogo.app.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/it.unicam.cs.jlogo.app.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/it.unicam.cs.jlogo.app.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/buildSrc/it.unicam.cs.jlogo.buildSrc.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/buildSrc/it.unicam.cs.jlogo.buildSrc.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/buildSrc/it.unicam.cs.jlogo.buildSrc.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/buildSrc/it.unicam.cs.jlogo.buildSrc.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/it/unicam/cs/jlogo/app/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/it/unicam/cs/jlogo/app/MessageUtils.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +49,14 @@
       </state>
     </system>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -41,29 +64,40 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2eaD4ViLPWjUoskz68M5nr71x16" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "jdk.selected.JAVA_MODULE": "openjdk-21",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/lucoz/Desktop/Unicam/JLogo",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/lucoz/Desktop/Unicam/JLogo/src/main/java/it/unicam/cs/jlogo/Main.java",
-    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.Build JLogo.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-21&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/lucoz/Desktop/Unicam/JLogo&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/lucoz/Desktop/Unicam/JLogo/api/src/main/java/it/unicam/cs/jlogo/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="it.unicam.cs.jlogo.api" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="JLogo" />
@@ -98,7 +132,8 @@
       <workItem from="1712133607750" duration="77000" />
       <workItem from="1712133818934" duration="262000" />
       <workItem from="1712134086921" duration="23000" />
-      <workItem from="1712134119135" duration="362000" />
+      <workItem from="1712134119135" duration="1123000" />
+      <workItem from="1712160396544" duration="221000" />
     </task>
     <servers />
   </component>

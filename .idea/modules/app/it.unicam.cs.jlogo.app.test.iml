@@ -11,10 +11,8 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="it.unicam.cs.jlogo.app.main" />
     <orderEntry type="library" name="Gradle: org.apache.commons:commons-text:1.11.0" level="project" />
-    <orderEntry type="module" module-name="it.unicam.cs.jlogo.utilities.main" />
     <orderEntry type="library" name="Gradle: org.junit.jupiter:junit-jupiter:5.10.0" level="project" />
     <orderEntry type="library" name="Gradle: org.apache.commons:commons-lang3:3.13.0" level="project" />
-    <orderEntry type="module" module-name="it.unicam.cs.jlogo.list.main" />
     <orderEntry type="library" name="Gradle: org.junit.jupiter:junit-jupiter-params:5.10.0" level="project" />
     <orderEntry type="library" name="Gradle: org.junit.jupiter:junit-jupiter-api:5.10.0" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Gradle: org.apiguardian:apiguardian-api:1.1.2" level="project" />

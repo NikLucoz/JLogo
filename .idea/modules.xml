@@ -2,18 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/api.iml" filepath="$PROJECT_DIR$/api.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/it.unicam.cs.jlogo.iml" filepath="$PROJECT_DIR$/.idea/modules/it.unicam.cs.jlogo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/it.unicam.cs.jlogo.api.iml" filepath="$PROJECT_DIR$/.idea/modules/api/it.unicam.cs.jlogo.api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/it.unicam.cs.jlogo.api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/api/it.unicam.cs.jlogo.api.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/it.unicam.cs.jlogo.api.test.iml" filepath="$PROJECT_DIR$/.idea/modules/api/it.unicam.cs.jlogo.api.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/it.unicam.cs.jlogo.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/it.unicam.cs.jlogo.app.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/it.unicam.cs.jlogo.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/it.unicam.cs.jlogo.app.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/it.unicam.cs.jlogo.app.test.iml" filepath="$PROJECT_DIR$/.idea/modules/app/it.unicam.cs.jlogo.app.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/buildSrc/it.unicam.cs.jlogo.buildSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/buildSrc/it.unicam.cs.jlogo.buildSrc.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/buildSrc/it.unicam.cs.jlogo.buildSrc.main.iml" filepath="$PROJECT_DIR$/.idea/modules/buildSrc/it.unicam.cs.jlogo.buildSrc.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/buildSrc/it.unicam.cs.jlogo.buildSrc.test.iml" filepath="$PROJECT_DIR$/.idea/modules/buildSrc/it.unicam.cs.jlogo.buildSrc.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/list/it.unicam.cs.jlogo.list.main.iml" filepath="$PROJECT_DIR$/.idea/modules/list/it.unicam.cs.jlogo.list.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/list/it.unicam.cs.jlogo.list.test.iml" filepath="$PROJECT_DIR$/.idea/modules/list/it.unicam.cs.jlogo.list.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/utilities/it.unicam.cs.jlogo.utilities.main.iml" filepath="$PROJECT_DIR$/.idea/modules/utilities/it.unicam.cs.jlogo.utilities.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/utilities/it.unicam.cs.jlogo.utilities.test.iml" filepath="$PROJECT_DIR$/.idea/modules/utilities/it.unicam.cs.jlogo.utilities.test.iml" />
     </modules>
   </component>
 </project>

@@ -66,9 +66,14 @@
     </facet>
   </component>
   <component name="NewModuleRootManager">
-    <output-test url="file://$MODULE_DIR$/../../../buildSrc/build/classes/java/test" />
+    <output-test url="file://$MODULE_DIR$/../../../buildSrc/build/classes/groovy/test" />
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../../../buildSrc/src/test" />
+    <content url="file://$MODULE_DIR$/../../../buildSrc/src/test">
+      <sourceFolder url="file://$MODULE_DIR$/../../../buildSrc/src/test/groovy" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../buildSrc/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../buildSrc/src/test/kotlin" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../buildSrc/src/test/resources" type="java-test-resource" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="it.unicam.cs.jlogo.buildSrc.main" />
