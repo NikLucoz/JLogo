@@ -3,4 +3,4 @@ This is an implementation in Java of Logo (an educational programming language, 
 Logo is widely known for its use of turtle graphics, in which commands for movement and drawing produced line or vector graphics.
 ## License
 
-This project is licensed under the [MIT License](LICENSE.md)
+This project is licensed under the [MIT License](LICENSE)
